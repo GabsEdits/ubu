@@ -1,12 +1,9 @@
-# Ubuntu-titus
-Ubuntu customizations from Chris Titus Tech
- 
-## Requirements
-_This is a Ubuntu server build_
+# ubu
+A fork of ubuntu-titus
 
 ### Download Ubuntu Server
 
-Download from <https://ubuntu.com/download/server> and install the ISO using any imaging tool. 
+iso <https://ubuntu.com/download/server> and install the ISO using any imaging tool. 
 
 ### Installation Guide
 
